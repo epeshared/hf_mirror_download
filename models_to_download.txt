@@ -1,0 +1,4 @@
+Intel/bge-large-en-v1.5-rag-int8-static /home/xtang/models/Intel/bge-large-en-v1.5-rag-int8-static
+BAAI/bge-reranker-large /home/xtang/models/BAAI/bge-reranker-large
+BAAI/bge-large-zh-v1.5 /home/xtang/models/BAAI/bge-large-zh-v1.5
+BAAI/bge-large-en-v1.5 /home/xtang/models/BAAI/bge-large-en-v1.5
